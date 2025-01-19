@@ -1,2 +1,2 @@
 @echo off
-shutdown /r /fw
+shutdown /r /fw /f /t 0
